@@ -95,7 +95,7 @@ Meu foco atual é evoluir como desenvolvedor de soluções internas, automaçõe
 
 ## 📜 Certificações
 
-- Microsoft Security, Compliance, and Identity Fundamentals — **SC-900**
+- Microsoft Security, Compliance, and Identity Fundamentals - **SC-900**
 - IBM QRadar SIEM Practitioner Advanced
 - IBM QRadar SOAR Technical Sales Advanced
 - Fortinet Certified Fundamentals / Associate
@@ -105,10 +105,10 @@ Meu foco atual é evoluir como desenvolvedor de soluções internas, automaçõe
 
 ## 💼 Experiência profissional
 
-### Analista de Segurança da Informação — Kryptus
+### Analista de Segurança da Informação - Kryptus
 Atuação com segurança da informação, automações operacionais, SIEM, processos de SOC, integrações, evidências e melhoria contínua de rotinas técnicas.
 
-### Analista / Consultor de Segurança — Service IT Security
+### Analista / Consultor de Segurança - Service IT Security
 Atuação com ambientes IBM QRadar SIEM, sustentação, troubleshooting, análise de regras, retenção, healthcheck, documentação e apoio a processos operacionais.
 
 ---
