@@ -6,6 +6,7 @@ I am an Information Security professional focused on **SOC operations, SIEM engi
 
 My work is centered on building practical solutions for real SOC environments: reducing repetitive tasks, improving visibility, standardizing operational evidence and helping teams move from manual execution to controlled, auditable automation.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-othonsantiago.github.io-35D0FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://othonsantiago.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Othon%20Santiago-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othon-santiago/)
 [![GitHub](https://img.shields.io/badge/GitHub-OthonSantiago-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OthonSantiago)
 
@@ -151,6 +152,7 @@ Experience supporting IBM QRadar SIEM environments, log source troubleshooting, 
 
 ## 📫 Connect with me
 
+- Portfolio: [othonsantiago.github.io](https://othonsantiago.github.io)
 - GitHub: [github.com/OthonSantiago](https://github.com/OthonSantiago)
 - LinkedIn: [linkedin.com/in/othon-santiago](https://www.linkedin.com/in/othon-santiago/)
 
