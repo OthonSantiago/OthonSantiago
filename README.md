@@ -1,118 +1,118 @@
-# 👋 Hi, I'm Othon Santiago
+# 👋 Olá, eu sou Othon Santiago
 
-**Cybersecurity Analyst | SOC Automation | SIEM Engineering | IBM QRadar | Blue Team**
+**Analista de Segurança da Informação | SOC Automation | SIEM Engineering | IBM QRadar | Blue Team**
 
-I am an Information Security professional focused on **SOC operations, SIEM engineering, detection workflows, evidence collection automation and security governance**.
+Sou profissional de Segurança da Informação com foco em **operações de SOC, engenharia de SIEM, automação de evidências, workflows de detecção, governança operacional e melhoria contínua de processos de segurança**.
 
-My work is centered on building practical solutions for real SOC environments: reducing repetitive tasks, improving visibility, standardizing operational evidence and helping teams move from manual execution to controlled, auditable automation.
+Atuo construindo soluções práticas para ambientes reais de SOC: redução de tarefas repetitivas, padronização de evidências, melhoria de visibilidade, automação controlada e processos com rastreabilidade.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-othonsantiago.github.io-35D0FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://othonsantiago.github.io)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-othonsantiago.github.io-35D0FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://othonsantiago.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Othon%20Santiago-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othon-santiago/)
 [![GitHub](https://img.shields.io/badge/GitHub-OthonSantiago-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OthonSantiago)
 
 ---
 
-## 🛡️ About me
+## 🛡️ Sobre mim
 
-- Cybersecurity professional with experience in **SOC, SIEM, Blue Team operations and automation**.
-- Strong hands-on background with **IBM QRadar SIEM**, including rules, offenses, log sources, retention, healthcheck routines and troubleshooting.
-- Experience with **Elastic/Kibana**, **Microsoft Defender XDR / Advanced Hunting**, **ManageEngine ServiceDesk Plus** and operational evidence workflows.
-- Builder of Python-based automations for SOC routines, evidence collection, ticket handling and governance.
-- Focused on simple, secure and maintainable solutions with clear documentation and operational visibility.
-
----
-
-## 🚀 Current focus
-
-- SOC automation and AI-assisted operational workflows
-- SIEM healthcheck, visibility and governance
-- QRadar rule lifecycle and production readiness
-- Defender Advanced Hunting routine automation
-- ManageEngine ServiceDesk Plus process automation
-- Evidence collection and parent/child ticket consolidation
-- Multi-tenant security operations governance
-- Human-in-the-loop automation with auditability
+- Profissional de Segurança da Informação com experiência em **SOC, SIEM, Blue Team, automação e governança operacional**.
+- Experiência prática com **IBM QRadar SIEM**, incluindo regras, offenses, log sources, retenção, healthcheck, troubleshooting e suporte operacional.
+- Vivência com **Elastic/Kibana**, **Microsoft Defender XDR / Advanced Hunting**, **ManageEngine ServiceDesk Plus** e fluxos de coleta de evidências.
+- Desenvolvimento de automações em **Python** para rotinas SOC, coleta de evidências, tratamento de chamados e consolidação operacional.
+- Foco em soluções simples, seguras, documentadas, auditáveis e fáceis de manter.
 
 ---
 
-## 🧰 Tech stack
+## 🚀 Foco atual
 
-### Security & SOC
-![SOC](https://img.shields.io/badge/SOC-Operations-1f6feb?style=flat-square)
-![Blue Team](https://img.shields.io/badge/Blue%20Team-Detection-1f6feb?style=flat-square)
+- Automação de SOC e workflows operacionais assistidos por IA
+- Healthcheck, visibilidade e governança de SIEM
+- Ciclo de vida de regras QRadar até produção
+- Automação de rotinas com Microsoft Defender Advanced Hunting
+- Automação de processos no ManageEngine ServiceDesk Plus
+- Coleta de evidências e consolidação de chamados pai/filho
+- Governança multi-tenant para operações de segurança
+- Automação com aprovação humana, auditoria e rastreabilidade
+
+---
+
+## 🧰 Stack e competências
+
+### Segurança & SOC
+![SOC](https://img.shields.io/badge/SOC-Opera%C3%A7%C3%B5es-1f6feb?style=flat-square)
+![Blue Team](https://img.shields.io/badge/Blue%20Team-Detec%C3%A7%C3%A3o-1f6feb?style=flat-square)
 ![SIEM](https://img.shields.io/badge/SIEM-Engineering-1f6feb?style=flat-square)
-![Incident Response](https://img.shields.io/badge/Incident-Triage-1f6feb?style=flat-square)
-![Governance](https://img.shields.io/badge/Security-Governance-1f6feb?style=flat-square)
+![Incident Response](https://img.shields.io/badge/Incidentes-Triagem-1f6feb?style=flat-square)
+![Governance](https://img.shields.io/badge/Seguran%C3%A7a-Governan%C3%A7a-1f6feb?style=flat-square)
 
-### Platforms
+### Plataformas
 ![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-SIEM-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-Kibana-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-XDR-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
 ![ManageEngine](https://img.shields.io/badge/ManageEngine-ServiceDesk%20Plus-red?style=flat-square)
 ![Fortinet](https://img.shields.io/badge/Fortinet-VPN%20%2F%20Security-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 
-### Development & Automation
-![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white)
+### Desenvolvimento & Automação
+![Python](https://img.shields.io/badge/Python-Automa%C3%A7%C3%A3o-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-Browser%20Automation-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-Workflow%20Config-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Versionamento-F05032?style=flat-square&logo=git&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-Workflows-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
-### Infrastructure
-![Linux](https://img.shields.io/badge/Linux-Operations-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-Operations-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-Remote%20Administration-000000?style=flat-square)
+### Infraestrutura
+![Linux](https://img.shields.io/badge/Linux-Opera%C3%A7%C3%B5es-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-Opera%C3%A7%C3%B5es-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-Virtualiza%C3%A7%C3%A3o-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-Administra%C3%A7%C3%A3o%20Remota-000000?style=flat-square)
 
 ---
 
-## 🏗️ Projects and areas of work
+## 🏗️ Projetos e frentes de atuação
 
 ### ChannelGuard
-A governance-oriented platform concept for managing communication channels, tenants, teams and operational workflows with auditability and controlled automation.
+Conceito de plataforma orientada à governança para gerenciamento de canais, tenants, times e workflows operacionais com auditoria e automação controlada.
 
-### SOC Automation Platform
-Architecture for a SOC automation platform based on:
+### Plataforma de Automação SOC
+Arquitetura para uma plataforma de automação SOC baseada em:
 
-- Central API for orchestration, policy enforcement and audit trails
-- Local Worker for evidence collection through analyst sessions
-- Human approval before sensitive actions
-- Multi-tenant governance
-- Signed evidence packages
-- Workflow versioning and operational documentation
+- API Central para orquestração, políticas e trilha de auditoria
+- Local Worker para coleta de evidências usando sessão operacional do analista
+- Aprovação humana antes de ações sensíveis
+- Governança multi-tenant
+- Pacotes de evidência assinados
+- Versionamento de fluxos e documentação operacional
 
 ### Routine Evidence Agent
-Python-based automation for recurring SOC routines involving:
+Automação em Python para rotinas recorrentes de SOC envolvendo:
 
-- ManageEngine ticket handling
-- Elastic/Kibana evidence collection
-- Microsoft Defender Advanced Hunting routines
-- Parent/child ticket consolidation
-- Evidence insertion into ticket responses
-- Operational workflow standardization
+- Tratamento de chamados no ManageEngine
+- Coleta de evidências no Elastic/Kibana
+- Rotinas com Microsoft Defender Advanced Hunting
+- Consolidação de chamados pai/filho
+- Inserção de evidências em respostas operacionais
+- Padronização de fluxo e documentação
 
 ### QRadar Healthcheck
-Automation and reporting approach for IBM QRadar environments:
+Automação e abordagem de relatório para ambientes IBM QRadar:
 
-- API-based healthcheck
-- SSH read-only operational checks
-- Log source visibility
-- Rule and offense analysis
-- Retention and storage validation
-- Report generation for operational review
+- Healthcheck via API
+- Checagens SSH read-only
+- Visibilidade de log sources
+- Análise de regras e offenses
+- Validação de retenção e armazenamento
+- Relatórios para revisão operacional
 
 ### SIEM Sizing Collector
-Tooling and process for SIEM sizing activities:
+Ferramentas e processo para atividades de sizing de SIEM:
 
-- EPS analysis
-- Data volume estimation
-- Infrastructure sizing support
-- Technical documentation and reporting
+- Análise de EPS
+- Estimativa de volume de dados
+- Apoio ao dimensionamento de infraestrutura
+- Documentação técnica e geração de relatórios
 
 ---
 
-## 📜 Certifications
+## 📜 Certificações
 
 - Microsoft Security, Compliance, and Identity Fundamentals — **SC-900**
 - IBM QRadar SIEM Practitioner Advanced
@@ -122,23 +122,33 @@ Tooling and process for SIEM sizing activities:
 
 ---
 
-## 💼 Professional experience
+## 💼 Experiência profissional
 
-### Information Security Analyst — Kryptus
-Experience with SOC operations, SIEM engineering, automation, detection workflows and cybersecurity process improvement.
+### Analista de Segurança da Informação — Kryptus
+Atuação com operações de SOC, SIEM, automação, fluxos de detecção e melhoria de processos de segurança cibernética.
 
-### Security Analyst / Consultant — Service IT Security
-Experience supporting IBM QRadar SIEM environments, log source troubleshooting, rule analysis, retention, healthcheck activities and operational security routines.
+### Analista / Consultor de Segurança — Service IT Security
+Atuação com ambientes IBM QRadar SIEM, troubleshooting de log sources, análise de regras, retenção, healthcheck e rotinas operacionais de segurança.
 
 ---
 
-## 🎯 Engineering principles
+## 🎯 Princípios de engenharia
 
-- Keep solutions simple and maintainable
-- Document decisions, flows and operational procedures
-- Design with security, auditability and traceability in mind
-- Automate repetitive tasks without removing human control from critical decisions
-- Build tools that are useful for real SOC analysts, not only for demos
+- Código simples e fácil de manter
+- Documentação clara para operação e evolução
+- Segurança, auditoria e rastreabilidade por padrão
+- Automação sem remover controle humano de decisões críticas
+- Ferramentas úteis para analistas reais de SOC, não apenas para demonstração
+
+---
+
+## 🌎 English summary
+
+I am a Cybersecurity professional focused on **SOC operations, SIEM engineering, evidence collection automation, detection workflows and security governance**.
+
+My experience includes **IBM QRadar SIEM**, **Elastic/Kibana**, **Microsoft Defender XDR / Advanced Hunting**, **ManageEngine ServiceDesk Plus**, Python automation, operational evidence workflows and SOC process improvement.
+
+I build practical, secure and maintainable solutions for real SOC environments, with focus on auditability, documentation, human approval and operational visibility.
 
 ---
 
@@ -150,12 +160,12 @@ Experience supporting IBM QRadar SIEM environments, log source troubleshooting, 
 
 ---
 
-## 📫 Connect with me
+## 📫 Contato
 
-- Portfolio: [othonsantiago.github.io](https://othonsantiago.github.io)
+- Portfólio: [othonsantiago.github.io](https://othonsantiago.github.io)
 - GitHub: [github.com/OthonSantiago](https://github.com/OthonSantiago)
 - LinkedIn: [linkedin.com/in/othon-santiago](https://www.linkedin.com/in/othon-santiago/)
 
 ---
 
-> Building practical cybersecurity automation for real SOC operations.
+> Construindo automações práticas de segurança cibernética para operações reais de SOC.
